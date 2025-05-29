@@ -1,2 +1,72 @@
-# chatbot
-Chatbot feito com node.js, com implantação gratuita no Whatsapp, sem uso de ferramentas externas
+
+
+````
+# 🤖 Chatbot
+
+Projeto de chatbot feito com Node.js.
+
+---
+
+## 📖 Sobre
+
+Esse projeto é um chatbot que usa as bibliotecas padrão do Node.js, com foco em performance e flexibilidade.
+
+---
+
+## ⚠️ Importante
+
+A pasta `node_modules/` **não está incluída no repositório** porque:
+
+- 📦 Ela contém as dependências instaladas via `npm install`.
+- 🗂️ Esses arquivos são gerados automaticamente e costumam ser grandes.
+- 🚫 Manter `node_modules` no repositório pode causar erros e atrasos no push.
+
+Para rodar o projeto, basta clonar o repositório e rodar:
+
+```bash
+npm install
+````
+
+---
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/eutolv/chatbot.git
+```
+
+2. Entre na pasta:
+
+```bash
+cd chatbot
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Rode o chatbot:
+
+```bash
+node guimaga.js
+```
+
+---
+
+## 🤝 Contribuição
+
+Pull requests são bem-vindos, mas por favor, **não adicione a pasta `node_modules`**.
+
+---
+
+## 📄 Licença
+
+MIT License.
+
+---
+
+Feito por Tolv — código com gosto e sem frescura. 😎

@@ -8,7 +8,7 @@ Projeto de chatbot feito com Node.js.
 
 ## 📖 Sobre
 
-Esse projeto é um chatbot que usa as bibliotecas padrão do Node.js, com foco em performance e flexibilidade.
+Esse projeto é um chatbot que usa as bibliotecas padrão do Node.js, com foco em performance e flexibilidade. Foi desenvolvido para uma empresa de aluguel de empilhadeiras, com o objetivo de automatizar o atendimento via WhatsApp. Um QR Code é gerado no terminal para que o número da empresa possa ser conectado ao WhatsApp Web. A partir daí, o chatbot assume as interações automaticamente, respondendo clientes e agilizando o contato.
 
 ---
 

@@ -1,6 +1,5 @@
 
 
-````
 # 🤖 Chatbot
 
 Projeto de chatbot feito com Node.js.
@@ -23,7 +22,7 @@ A pasta `node_modules/` **não está incluída no repositório** porque:
 
 Para rodar o projeto, basta clonar o repositório e rodar:
 
-```bash
+```
 npm install
 ````
 
